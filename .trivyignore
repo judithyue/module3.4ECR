@@ -1,0 +1,4 @@
+# Bundled in setuptools, no fix available in current setuptools release
+CVE-2026-23949
+# Bundled in setuptools, no fix available in current setuptools release
+CVE-2026-24049
